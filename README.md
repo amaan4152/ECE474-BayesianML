@@ -1,1 +1,1 @@
-# ECE474-BayesianML
+# ECE474: Bayesian Machine Learning
