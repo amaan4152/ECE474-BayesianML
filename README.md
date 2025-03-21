@@ -1,5 +1,5 @@
 # ECE474: Bayesian Machine Learning
-### Amaan Rahman & Daniel Mezhiborsky
+### Amaan Rahman
 
 ## Introduction
 Applied Bayesian techniques for regression, classification, and sampling in machine learning. 
